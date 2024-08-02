@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amg-shortener-front/static/css/main.0ca7dc98.css",
+    "main.js": "/amg-shortener-front/static/js/main.2b322eae.js",
+    "static/js/453.cf8285ca.chunk.js": "/amg-shortener-front/static/js/453.cf8285ca.chunk.js",
+    "index.html": "/amg-shortener-front/index.html",
+    "main.0ca7dc98.css.map": "/amg-shortener-front/static/css/main.0ca7dc98.css.map",
+    "main.2b322eae.js.map": "/amg-shortener-front/static/js/main.2b322eae.js.map",
+    "453.cf8285ca.chunk.js.map": "/amg-shortener-front/static/js/453.cf8285ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca7dc98.css",
+    "static/js/main.2b322eae.js"
+  ]
+}
